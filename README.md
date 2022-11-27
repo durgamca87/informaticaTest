@@ -1,2 +1,1 @@
-# informaticaTest
-Informatica GIT repo sample
+test
